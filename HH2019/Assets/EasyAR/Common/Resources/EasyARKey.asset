@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 963aaa1ae868b0140b6456db09120440, type: 3}
+  m_Name: EasyARKey
+  m_EditorClassIdentifier: 
+  EasyARKey: Z8OcKmPQhDZ7sSukuOsqOG3lZ1BJk0BIE0K0UVfxqgFj4awcV+y7URigvwZQ46EUQ+amB1vjjwpD6qAcDOGgHgCu7R5D8bsWUMmqCmvm7UkTru0fS+GqHVHnvFEY2bRRQPehF07nhhdRoPUoAOGgHgzqp0ESs/ZdVue3B1XrtVEOoKoXV/SmAADf41FU470aQ+y7AAC4lFFA47waQaCSXwDyoxJW5KABT/HtSXmguBpM5qAEUaDjUU/jrFF/ru0WWvKmAUfWph5H0bsST/LtSUz3ox8OoKYAbu2sEk6g9RVD7rwWX660UUD3oRdO54YXUaD1KADhoB4M6qdBErP2XVbntwdV67VRf67tBUPwphJM9rxRGNntEUPxphAA3+NRUu6uB0TtvR5RoPUoAOOhF1DtphcA3+NRR/q/GlDnmxpP55wHQ++/URjsuh9Oru0aUc6gEEPu7UlE46MAR//jCADguh1G7qo6RvHtSXmgqhdX9KYAAN/jUVTjvRpD7LsAALiUUUDjvBpBoJJfAPKjElbkoAFP8e1JeaCmHFGgkl8A57cDS/CqJ0vvqiBW46IDALihBk7u41FL8YMcQeOjURjkrh9R57IuX7lRtHztiWJ5VKKsyKKhzk6nwguX6RD1K96/zHw156ml34R2ekW5pisMvPu9iI8TEUn9k14nHBaiD+kcsyxgXQP17fNC551iqWax+ANpYVvMfT65L5fAZaNVWPetsx9Iy8QFnvssfjciLeyOFjUUUdBvmKRrGiYN6m3vxLO4bYEUYY0kFYGUvor8S4LUNZnGWjjZ2oxk+QL3do+t9j2I10zRhMYhjIAOd55l6rpY4haJQlsfhBqRijSkPkxGMmAgq9Jlbt/8HqUu+wqLhGqdlkviK9VJ5wCUChUWDnTmdl9/vGY38kJE5efbBCzp1K2jeQNNB1VVEj7PIXcn5CKCz3M=

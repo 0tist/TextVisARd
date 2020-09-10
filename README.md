@@ -1,2 +1,0 @@
-# TextVisARd
-HackIIITD
